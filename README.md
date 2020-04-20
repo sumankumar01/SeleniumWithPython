@@ -2,6 +2,7 @@
 Automation with Selenium And Python
 
 1 -> Install selenium using cmd prompt.
+
      C:\Users\kumar>pip install selenium
      C:\Users\kumar>pip list
               Package    Version
