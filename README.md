@@ -25,3 +25,9 @@ IDE- Pycharm
            ii) Now write the simple code as below:
                 driver=webdriver.Chrome()
                 driver.get("http://www.newtours.demoaut.com/")
+  
+  3 -> Python unit Testing Framework
+      
+        1. Pytest
+        2. Nose Test
+        3. Unittest
