@@ -74,17 +74,6 @@ class CodeVlidation(unittest.TestCase):
         print("running the test case2")
         self.assertEqual(2, 3)
 
-# def suite():
-#     suite = unittest.TestSuite()
-#         ##   suite.addTest (CodeVlidation("testcase1"))
-#         ##   suite.addTest (CodeVlidation("testcase2"))
-#     suite.addTest(unittest.makeSuite(CodeVlidation))
-#     return suite
-#
-# if __name__ == '__main__':
-#     runner = unittest.TextTestRunner()
-#     test_suite = suite()
-#     runner.run (test_suite)
 
 if __name__ == '__main__':
 
@@ -107,4 +96,4 @@ then run from cmd
   D:\import\UnitTestPython>allure serve ./results/    
     detailed step -- PythonAllure.blogspot.com
      
-       
+ ![Image description](https://github.com/sumankumar01/SeleniumWithPython/blob/master/images/AllureReport.JPG?raw=true)      
