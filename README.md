@@ -94,6 +94,6 @@ if __name__ == '__main__':
 then run from cmd
   D:\import\UnitTestPython>python -m pytest UnitTest12345.py --alluredir ./results
   D:\import\UnitTestPython>allure serve ./results/    
-
-  ![detailedstep - PythonAllure.blogspot.com](PythonAllure.blogspot.com) 
+    https://pythonallure.blogspot.com/
+  ![](PythonAllure.blogspot.com) 
  ![Image description](https://github.com/sumankumar01/SeleniumWithPython/blob/master/images/AllureReport.JPG?raw=true)      
