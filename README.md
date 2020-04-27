@@ -24,10 +24,14 @@ IDE- Pycharm
            i) Simply paste the chromedriver.exe under C:\Users\kumar\AppData\Local\Programs\Python\Python37\Scripts
            ii) Now write the simple code as below:
                 driver=webdriver.Chrome()
-                driver.get("http://www.newtours.demoaut.com/")
+                driver.get("http://www.newtours.demoaut.com/")    
   
   3 -> Python unit Testing Framework
       
         1. Pytest
         2. Nose Test
         3. Unittest
+
+            3 -> Html report using UnitTest and HtmlReporter
+            
+            
