@@ -33,5 +33,4 @@ IDE- Pycharm
         3. Unittest
 
             3 -> Html report using UnitTest and HtmlReporter
-            
-            
+            ![Image description](https://github.com/sumankumar01/SeleniumWithPython/blob/master/images/Capture.JPG)
