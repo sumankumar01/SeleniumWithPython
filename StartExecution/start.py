@@ -1,6 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-import unittest
 
 #driver = webdriver.Chrome(executable_path=r"C:\Users\kumar\AppData\Local\Programs\Python\Python38-32\Scripts\chromedriver.exe")
 
