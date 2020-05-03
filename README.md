@@ -96,4 +96,4 @@ then run from cmd
   D:\import\UnitTestPython>allure serve ./results/    
     https://pythonallure.blogspot.com/
   ![](PythonAllure.blogspot.com) 
- ![Image description](https://github.com/sumankumar01/SeleniumWithPython/blob/master/images/AllureReport.JPG?raw=true)      
+ ![Image description](https://github.com/sumankumar01/SeleniumWithPython/blob/master/Report/AllureReport.JPG?raw=true)      
