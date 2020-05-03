@@ -1,0 +1,20 @@
+
+{
+
+    "LoginPage": [
+        {
+            "Username": "mercury",
+            "Password": "mercury"
+        }
+
+    ],
+  "Reservation": [
+        {
+            "passangercount_select_name": 2,
+            "departingFrom_select_name": "Frankfurt"
+
+        }
+
+    ]
+
+}

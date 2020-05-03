@@ -2,8 +2,7 @@ import unittest
 
 from selenium import webdriver
 from pageobjects.LoginPage import loginpage1
-
-
+from pageobjects.Reservation import reservationPage
 
 class Login(unittest.TestCase):
 
@@ -24,6 +23,7 @@ class Login(unittest.TestCase):
 
 
     def tearDown(self):
+        self.driver.close()
         print("cleaning the environment")
 
     def testloginScanario(self):
@@ -33,5 +33,5 @@ class Login(unittest.TestCase):
 
     def testReservation(self):
         print("running the test case1 {0.driver}".format(self))
-        Login().testloginScanario()
-        
+        loginpage1(self.driver).EnterCredential()
+        reservationPage(self.driver).flightDetails()

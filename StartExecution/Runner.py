@@ -14,5 +14,5 @@ for testCase in testList:
 
 newSuite = unittest.TestSuite(TestList)
 runner = unittest.TextTestRunner()
-runner=HTMLTestRunner(output='example_dir')
+runner=HTMLTestRunner(output='Report_dir')
 runner.run(newSuite)
